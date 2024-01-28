@@ -1,1 +1,2 @@
 # Travel-Buddy
+Travel Buddy is a chatbot that operates based on certain rules. It takes into account the user's preferences such as the places they want to visit, their cuisine preferences, their budget, and the duration of their stay. The chatbot then generates a tailor-made travel plan specifically tailored to the user's requirements to explore London within their budget and timeframe. The plan will consist of details of places to visit, accommodation, dining options as well as their respective prices. This feature is an excellent convenience for any traveller.
